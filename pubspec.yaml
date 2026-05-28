@@ -1,6 +1,8 @@
 name: agrosat
-description: "A new Flutter project."
+description: Análise agrícola via dados satelitais - Global Solution FIAP 2026.1
+
 publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -9,7 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  get_it: ^7.7.0
+  http: ^1.2.1
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:
