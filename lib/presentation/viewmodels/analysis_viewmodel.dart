@@ -27,7 +27,7 @@ class AnalysisViewModel extends ChangeNotifier {
       _result = await _repository.analyze(region);
       _state = ViewState.success;
     } catch (_) {
-      _errorMessage = 'Erro ao buscar dados.';
+      _errorMessage = 'Falha ao buscar dados satelitais. Verifique sua conexão.';
       _state = ViewState.error;
     }
 
