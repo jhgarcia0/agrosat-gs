@@ -70,7 +70,7 @@ https://github.com/jhgarcia0/agrosat-gs
 
 ## Pitch
 
-[Link do YouTube aqui]
+https://youtu.be/S6RpXkrxKMQ
 
 ---
 
